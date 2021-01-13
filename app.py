@@ -1,1 +1,1 @@
-from . myapp import testapp as application
+from myapp import testapp as application
